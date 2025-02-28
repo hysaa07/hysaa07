@@ -3,6 +3,9 @@
 
 <p>Busco minha experiência proficional, com vontade de aprender e desenvolver novas habilidades.</p>
 
+<p>:computer: Estudante de Programação Web no IFRN</p>
+
+
 <p>Tchau!</p>
 
 
