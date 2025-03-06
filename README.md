@@ -1,4 +1,4 @@
-<h1> Heloysa Alves </h1>
+<h2>olá, Me chamo Heloysa Alves </h2>
 
 
 <p>Busco minha experiência proficional, com vontade de aprender e desenvolver novas habilidades.</p>
@@ -8,7 +8,7 @@
 
 <p>:mailbox: Email:hysaalves07@gmail.com</p>
 
-<p>:briefcase:{linkedin.com/in/heloysa-alves}(https://linkedin.com/in/heloysa-alves)</p>
+<p>:briefcase:(https://linkedin.com/in/heloysa-alves)</p>
 
 
 <p>Tchau!</p> 
