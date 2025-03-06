@@ -1,4 +1,4 @@
-<h2>olá, Me chamo Heloysa Alves </h2>
+<h2>Olá, Me chamo Heloysa Alves </h2>
 
 
 <p>Busco minha experiência proficional, com vontade de aprender e desenvolver novas habilidades.</p>
