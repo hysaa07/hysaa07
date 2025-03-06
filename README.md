@@ -1,14 +1,18 @@
-<h1>Olá, me chamo Heloysa Alves </h1>
+<h1> Heloysa Alves </h1>
 
 
 <p>Busco minha experiência proficional, com vontade de aprender e desenvolver novas habilidades.</p>
 
+
 <p>:computer: Estudante de Programação Web no IFRN</p>
 
+<p>:mailbox: Email:hysaalves07@gmail.com</p>
 
-<p>Tchau!</p>
+<p>:briefcase:{linkedin.com/in/heloysa-alves}(https://linkedin.com/in/heloysa-alves)</p>
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="50px"/>
+<p>Tchau!</p> 
 
-:two_hearts:
+:heartpulse:
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
