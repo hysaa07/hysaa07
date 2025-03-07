@@ -1,14 +1,18 @@
-<h2>Olá, Me chamo Heloysa Alves </h2>
-
+<h2>Olá, Me chamo Heloysa Alves! :rose:</h2>
 
 <p>Busco minha experiência proficional, com vontade de aprender e desenvolver novas habilidades.</p>
-
 
 <p>:computer: Estudante de Programação Web no IFRN</p>
 
 <p>:mailbox: Email:hysaalves07@gmail.com</p>
 
 <p>:briefcase:(https://linkedin.com/in/heloysa-alves)</p>
+
+<p>:earth_americas: Moro em São Paulo Do Potengi-RN</p>
+
+<p>:rose: idade: 17 </p> 
+ 
+<p> :books: cursando ensino médio do 3°ano </p>
 
 
 <p>Tchau!</p> 
