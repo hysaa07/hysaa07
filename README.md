@@ -12,10 +12,18 @@
 
 <li>:rose: Idade: 17 </li> 
 
-:heartpulse:
+<li>:heartpulse: Amo ler </li> 
 
 <h2>:books: Cursos</h2>
 
 <li>:computer: Estudante de Programação Web no IFRN.</li>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width=50px /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width=50px /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width=50px/>
+
+
+<h2>:sparkles: Habilidades</h2>
+<li>Trabalho em Equipe</li>
+<li>Ética Proficional</li>
+
+
+
