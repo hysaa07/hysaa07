@@ -20,3 +20,6 @@
 :heartpulse:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width=50px />
+
+<i class="devicon-github-original-wordmark colored" width=50px ></i>
+          
