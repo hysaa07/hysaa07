@@ -11,9 +11,9 @@
 
 <li>:earth_americas: Moro em São Paulo Do Potengi-RN.</li>
 
-<li>:rose: idade: 17 </li> 
+<li>:rose: Idade: 17 </li> 
  
-<li> :books: cursando o 3° do ensino médio.</li>
+<li>:books: cursando o 3° do ensino médio.</li>
 
 :heartpulse:
 
