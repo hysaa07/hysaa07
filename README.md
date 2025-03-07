@@ -2,7 +2,6 @@
 
 <p>Busco minha experiência proficional, com vontade de aprender e desenvolver novas habilidades.</p>
 
-<li>
 
 <li>:computer: Estudante de Programação Web no IFRN.</li>
 
@@ -15,8 +14,6 @@
 <li>:rose: idade: 17 </li> 
  
 <li> :books: cursando o 3° do ensino médio.</li>
-
-</ul>
 
 :heartpulse:
 
