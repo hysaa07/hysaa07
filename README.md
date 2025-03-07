@@ -2,17 +2,21 @@
 
 <p>Busco minha experiência proficional, com vontade de aprender e desenvolver novas habilidades.</p>
 
-<p>* :computer: Estudante de Programação Web no IFRN.</p>
+<li>
 
-<p>* :mailbox: Email:hysaalves07@gmail.com</p>
+<li>:computer: Estudante de Programação Web no IFRN.</li>
 
-<p>* :briefcase:(https://linkedin.com/in/heloysa-alves).</p>
+<li>:mailbox: Email:hysaalves07@gmail.com</li>
 
-<p>* :earth_americas: Moro em São Paulo Do Potengi-RN.</p>
+<li>:briefcase:(https://linkedin.com/in/heloysa-alves).</li>
 
-<p>* :rose: idade: 17 </p> 
+<li>:earth_americas: Moro em São Paulo Do Potengi-RN.</li>
+
+<li>:rose: idade: 17 </li> 
  
-<p>* :books: cursando o 3° do ensino médio.</p>
+<li> :books: cursando o 3° do ensino médio.</li>
+
+</ul>
 
 :heartpulse:
 
